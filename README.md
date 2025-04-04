@@ -47,21 +47,6 @@
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=krishnagiri1&show_icons=true&theme=radical" alt="Krishna's GitHub Stats"/>
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=krishnagiri1&layout=compact&theme=radical" alt="Krishna's Most Used Languages"/>
-</p>
-
----
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=krishnagiri1&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=krishnagiri1&layout=compact&theme=radical)
-
----
-
 ## 📫 Let’s Connect!
 
 - 💼 LinkedIn: [@venkata-krishna-giri-koneru](https://www.linkedin.com/in/venkata-krishna-giri-koneru-6625101a9/)
