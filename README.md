@@ -21,8 +21,7 @@
 - 🤖 Built with XGBoost, Flask, SMOTE – 81% CV Accuracy  
 - 🌐 Deployed with modern UI (Bootstrap)  
 - 🔗 [View GitHub Repo](https://github.com/krishnagiri1/Customer-Churn-Prediction)  
-- 📽️ Live:  
-  [![Live Demo](https://img.shields.io/badge/Live%20Demo-On%20Render-blueviolet?style=flat-square&logo=render)](https://customer-churn-prediction-23n1.onrender.com/)
+- 📽️ [![Live Demo](https://img.shields.io/badge/Live%20Demo-On%20Render-blueviolet?style=flat-square&logo=render)](https://customer-churn-prediction-23n1.onrender.com/)
 
 
 ---
