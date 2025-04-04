@@ -47,14 +47,6 @@
 
 ---
 
-## 📫 Let’s Connect!
-
-- 💼 LinkedIn: [@venkata-krishna-giri-koneru](https://www.linkedin.com/in/venkata-krishna-giri-koneru-6625101a9/)
-- 📸 Instagram: [@krishna_._giri](https://www.instagram.com/krishna_._giri/)
-
----
-
-_“Building cool things. One line of code at a time.”_ 🚀
 
 
 
