@@ -22,7 +22,8 @@
 - 🌐 Deployed with modern UI (Bootstrap)  
 - 🔗 [View GitHub Repo](https://github.com/krishnagiri1/Customer-Churn-Prediction)  
 - 📽️ Live:  
-  [![Live Link](https://github.com/krishnagiri1/Customer-Churn-Prediction/blob/main/output.gif?raw=true)](https://customer-churn-prediction-23n1.onrender.com/)
+  [![Live Demo](https://img.shields.io/badge/Live%20Demo-On%20Render-blueviolet?style=flat-square&logo=render)](https://customer-churn-prediction-23n1.onrender.com/)
+
 
 ---
 
@@ -42,7 +43,7 @@
 ## 🌐 Portfolio
 
 🖥️ Check out my portfolio site here:  
-👉 [https://fanciful-figolla-b75344.netlify.app](https://fanciful-figolla-b75344.netlify.app)
+👉 [![Live Link](https://github.com/krishnagiri1/Customer-Churn-Prediction/blob/main/output.gif?raw=true)](https://fanciful-figolla-b75344.netlify.app/)
 
 ---
 
