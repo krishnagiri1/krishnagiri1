@@ -21,8 +21,8 @@
 - 🤖 Built with XGBoost, Flask, SMOTE – 81% CV Accuracy  
 - 🌐 Deployed with modern UI (Bootstrap)  
 - 🔗 [View GitHub Repo](https://github.com/krishnagiri1/Customer-Churn-Prediction)  
-- 📽️ Demo GIF:  
-  [![Watch the Demo](https://github.com/krishnagiri1/Customer-Churn-Prediction/blob/main/output.gif?raw=true)](https://github.com/krishnagiri1/Customer-Churn-Prediction)
+- 📽️ Live:  
+  [![Live Link](https://github.com/krishnagiri1/Customer-Churn-Prediction/blob/main/output.gif?raw=true)](https://customer-churn-prediction-23n1.onrender.com/)
 
 ---
 
@@ -60,7 +60,6 @@
 
 - 💼 LinkedIn: [@venkata-krishna-giri-koneru](https://www.linkedin.com/in/venkata-krishna-giri-koneru-6625101a9/)
 - 📸 Instagram: [@krishna_._giri](https://www.instagram.com/krishna_._giri/)
-- 📧 Email: *[optional]*
 
 ---
 
