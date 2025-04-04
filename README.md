@@ -43,7 +43,8 @@
 ## 🌐 Portfolio
 
 🖥️ Check out my portfolio site here:  
-👉 [![Live Link](https://github.com/krishnagiri1/Customer-Churn-Prediction/blob/main/output.gif?raw=true)](https://fanciful-figolla-b75344.netlify.app/)
+👉
+[![Live Link](https://github.com/krishnagiri1/Customer-Churn-Prediction/blob/main/output.gif?raw=true)](https://fanciful-figolla-b75344.netlify.app/)
 
 ---
 
