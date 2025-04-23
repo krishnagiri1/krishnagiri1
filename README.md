@@ -67,15 +67,6 @@
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 
----
-
-## 🌐 Portfolio
-
-🖥️ Check out my portfolio site here:  
-[![Live Link](https://github.com/krishnagiri1/Customer-Churn-Prediction/blob/main/output.gif?raw=true)](https://fanciful-figolla-b75344.netlify.app/)
-
----
-
 
 
 
