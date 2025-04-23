@@ -1,10 +1,10 @@
-### Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Venkata Krishna Giri Koneru!
+# Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Venkata Krishna Giri Koneru!
 
 🎓 Master’s in Data Science @ University at Buffalo  
 💻 Developer | 🧠 Machine Learning Enthusiast | 🌐 Full Stack Explorer
 
 
-# 🌐 Let's Connect and have a Chat!💬
+## 🌐 Let's Connect and have a Chat!💬
 
 <a href="https://www.linkedin.com/in/venkata-krishna-giri-koneru-6625101a9/" target="_blank">
   <img
