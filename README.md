@@ -6,28 +6,35 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/venkata-krishna-giri-koneru-6625101a9/)
 [![GitHub](https://img.shields.io/badge/GitHub-Follow-black?style=flat-square&logo=github)](https://github.com/krishnagiri1)
 
-### 🌐 Let's Connect and have a Chat! 💬
+# 🌐 Let's Connect and have a Chat!💬
 
-<p align="left">
-  <a href="https://www.linkedin.com/in/venkata-krishna-giri-koneru-6625101a9/" target="_blank">
-    <img
-      src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=LinkedIn&logoColor=white"
-      alt="LinkedIn"
-    />
-  </a>
-  <a href="https://www.instagram.com/krishna_._giri/" target="_blank">
-    <img
-      src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=Instagram&logoColor=white"
-      alt="Instagram"
-    />
-  </a>
-  <a href="https://fanciful-figolla-b75344.netlify.app/" target="_blank">
-    <img
-      src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=Globe&logoColor=white"
-      alt="Portfolio"
-    />
-  </a>
-</p>
+<a href="https://www.linkedin.com/in/venkata-krishna-giri-koneru-6625101a9/" target="_blank">
+  <img
+    align="center"
+    src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
+    alt="venkata-krishna-giri-koneru"
+    height="45"
+    width="55"
+  />
+</a>
+<a href="https://www.instagram.com/krishna_._giri/" target="_blank">
+  <img
+    align="center"
+    src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg"
+    alt="krishna_._giri"
+    height="45"
+    width="55"
+  />
+</a>
+<a href="https://fanciful-figolla-b75344.netlify.app/" target="_blank">
+  <img
+    align="center"
+    src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/rss.svg"
+    alt="Portfolio"
+    height="45"
+    width="55"
+  />
+</a>
 
 ---
 
