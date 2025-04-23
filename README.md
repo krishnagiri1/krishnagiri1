@@ -13,8 +13,8 @@
     align="center"
     src="https://raw.githubusercontent.com/krishnagiri1/krishnagiri1/main/assets/ln.webp"
     alt="LinkedIn"
-    height="45"
-    width="55"
+    height="65"
+    width="75"
   />
 </a>
 <a href="https://www.instagram.com/krishna_._giri/" target="_blank">
@@ -23,7 +23,7 @@
     src="https://raw.githubusercontent.com/krishnagiri1/krishnagiri1/main/assets/ig.png"
     alt="Instagram"
     height="45"
-    width="55"
+    width="45"
   />
 </a>
 <a href="https://fanciful-figolla-b75344.netlify.app/" target="_blank">
