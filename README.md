@@ -11,8 +11,8 @@
 <a href="https://www.linkedin.com/in/venkata-krishna-giri-koneru-6625101a9/" target="_blank">
   <img
     align="center"
-    src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
-    alt="venkata-krishna-giri-koneru"
+    src="https://raw.githubusercontent.com/krishnagiri1/krishnagiri1/main/assets/ln.webp"
+    alt="LinkedIn"
     height="45"
     width="55"
   />
@@ -20,8 +20,8 @@
 <a href="https://www.instagram.com/krishna_._giri/" target="_blank">
   <img
     align="center"
-    src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg"
-    alt="krishna_._giri"
+    src="https://raw.githubusercontent.com/krishnagiri1/krishnagiri1/main/assets/ig.png"
+    alt="Instagram"
     height="45"
     width="55"
   />
