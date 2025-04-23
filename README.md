@@ -3,8 +3,6 @@
 🎓 Master’s in Data Science @ University at Buffalo  
 💻 Developer | 🧠 Machine Learning Enthusiast | 🌐 Full Stack Explorer
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/venkata-krishna-giri-koneru-6625101a9/)
-[![GitHub](https://img.shields.io/badge/GitHub-Follow-black?style=flat-square&logo=github)](https://github.com/krishnagiri1)
 
 # 🌐 Let's Connect and have a Chat!💬
 
@@ -15,6 +13,7 @@
     alt="LinkedIn"
     height="65"
     width="75"
+    style="margin-right:8px;"
   />
 </a>
 <a href="https://www.instagram.com/krishna_._giri/" target="_blank">
@@ -24,6 +23,7 @@
     alt="Instagram"
     height="45"
     width="45"
+    style="margin-right:8px;"
   />
 </a>
 <a href="https://fanciful-figolla-b75344.netlify.app/" target="_blank">
