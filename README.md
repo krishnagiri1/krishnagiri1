@@ -29,7 +29,7 @@
 <a href="https://fanciful-figolla-b75344.netlify.app/" target="_blank">
   <img
     align="center"
-    src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/rss.svg"
+    src="https://raw.githubusercontent.com/krishnagiri1/krishnagiri1/main/assets/pf.png"
     alt="Portfolio"
     height="45"
     width="55"
