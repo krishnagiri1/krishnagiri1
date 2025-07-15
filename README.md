@@ -31,7 +31,7 @@
     align="center"
     src="https://raw.githubusercontent.com/krishnagiri1/krishnagiri1/main/assets/pf.png"
     alt="Portfolio"
-    height="45"
+    height="55"
     width="55"
   />
 </a>
